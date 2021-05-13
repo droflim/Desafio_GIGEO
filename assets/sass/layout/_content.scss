@@ -1,0 +1,41 @@
+// Sector videos populares
+.media-video {
+  border-top: 1px solid gray;
+
+}
+.media-video__line{
+  &--1{
+  margin: 20px 0 20px 0
+    }
+  &--2{
+    margin: 20px 0 20px 0
+  }
+}
+
+.media__video{
+  &--1{
+    width: 100%;
+
+  }
+  &--2{
+    width: 100%;
+  }
+  &--3{
+    width: 100%;
+  }
+  &--4{
+    width: 100%;
+  }
+  &--5{
+    width: 100%;
+  }
+  &--6{
+    width: 100%;
+  }
+  &--7{
+    width: 100%;
+  }
+  &--8{
+    width: 100%;
+  }
+}

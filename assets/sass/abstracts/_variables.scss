@@ -1,0 +1,48 @@
+//Breakpoints Bootstrap Min Width
+
+$min-sm: 576px;
+$min-md: 768px;
+$min-lg: 992px;
+$min-xl: 1200px;
+$min-xxl: 1400px;
+
+//Breakpoints Bootstrap Max Width (documentation bootstrap official)
+
+$max-sm: 575.98px;
+$max-md: 767.98px;
+$max-lg: 991.98px;
+$max-xl: 1199.98px;
+$max-xxl: 1399.98px;
+
+
+
+$breakpoints: (
+    'max-sm' : (min-width: $min-sm),
+    'max-md' : (min-width: $min-md),
+    'max-lg' : (min-width: $min-lg),
+    'max-xl' : (min-width: $min-xl),
+    'max-xxl': (min-width: $min-xxl)
+
+) !default;
+
+
+
+//Colors
+$aqua: aquamarine;
+$watermln: #bf282f;
+$white: #ffffff;
+$black: #000000;
+$gray: gray;
+
+
+//Fonts
+$large:35px;
+$medium:23px;
+$small: 16px;
+
+
+//Style Fonts
+$bold: bold;
+$regular: 200;
+
+

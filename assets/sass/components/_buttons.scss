@@ -1,0 +1,21 @@
+//botones seccion header y perfil autora
+.section__button {
+  &--1 {
+  background-color: $aqua;
+  color: $white;
+  padding: 2px;
+  height: 40px;
+  border: none;
+ width: 80px;
+
+}
+}
+.section__button {
+  &--2 { 
+  background-color: $watermln;
+  border: none;
+  height: 40px;
+  color: $white;
+  width: 80px;
+  }
+}

@@ -1,0 +1,14 @@
+h1{
+  font-size: $large;
+  &.perfil__nombre{
+    font-weight: $bold
+  }
+}
+h2{
+  font-size: $medium;
+  font-weight: $bold;
+}
+p{
+  font-size: $small;
+  color: $gray;
+}
